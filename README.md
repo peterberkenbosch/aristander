@@ -1,5 +1,7 @@
 # Aristander
 
+__WIP NOT READY FOR USE YET__
+
 Ruby client for the [AristanderAI API](https://docs.aristander.ai/v1/)
 
 ## Installation
